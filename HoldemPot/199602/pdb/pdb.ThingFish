@@ -1,0 +1,322 @@
+ThingFish 825132486  7  3 f   -     -     -         4146    0    0 
+ThingFish 825132533  7  2 Bk  kf    -     -         4146   10    0 
+ThingFish 825132567  7  1 Bc  kc    kf    -         4136   70    0 
+ThingFish 825132635  7  7 f   -     -     -         4066    0    0 
+ThingFish 825132692  7  6 f   -     -     -         4066    0    0 
+ThingFish 825132741  7  5 r   b     -     -         4066  345  520 
+ThingFish 825132809  7  4 f   -     -     -         4241    0    0 
+ThingFish 825132842  7  3 f   -     -     -         4241    0    0 
+ThingFish 825132885  7  2 Bk  kc    kr    -         4241  220  325 
+ThingFish 825132945  7  1 Bf  -     -     -         4346    5    0 
+ThingFish 825132969  7  7 f   -     -     -         4341    0    0 
+ThingFish 825133003  7  6 f   -     -     -         4341    0    0 
+ThingFish 825133037  7  5 c   c     c     c         4341 1335 2720 Tc Ks
+ThingFish 825133095  7  4 f   -     -     -         5726    0    0 
+ThingFish 825133156  6  3 cc  kf    -     -         5726   45    0 
+ThingFish 825133180  6  2 Bk  kc    kc    kf        5681  130    0 
+ThingFish 825133237  7  1 Br  kf    -     -         5551   59    0 
+ThingFish 825133308  7  7 f   -     -     -         5492    0    0 
+ThingFish 825133328  7  6 f   -     -     -         5492    0    0 
+ThingFish 825133365  7  5 c   c     c     r         5492 1095 1575 
+ThingFish 825133414  7  4 f   -     -     -         5972    0    0 
+ThingFish 825133456  7  3 f   -     -     -         5972    0    0 
+ThingFish 825133499  7  2 Bf  -     -     -         5972   10    0 
+ThingFish 825133564  7  1 Bf  -     -     -         5962    5    0 
+ThingFish 825133648  7  7 f   -     -     -         5957    0    0 
+ThingFish 825133702  7  6 f   -     -     -         5957    0    0 
+ThingFish 825133762  7  5 f   -     -     -         5957    0    0 
+ThingFish 825133783  7  4 f   -     -     -         5957    0    0 
+ThingFish 825133813  7  3 cc  kf    -     -         5957   65    0 
+ThingFish 825133865  7  2 Bk  kf    -     -         5892   10    0 
+ThingFish 825133896  7  1 Bc  k     k     b         5882   30   40 
+ThingFish 825133943  7  7 c   f     -     -         5892   10    0 
+ThingFish 825133990  7  6 f   -     -     -         5882    0    0 
+ThingFish 825134026  7  5 c   b     b     -         5882  150  210 
+ThingFish 825134081  7  4 f   -     -     -         5942    0    0 
+ThingFish 825134153  6  3 f   -     -     -         5942    0    0 
+ThingFish 825134198  5  2 Bk  k     k     f         5942   10    0 
+ThingFish 825134231  4  1 Bc  kc    k     k         5932   40  120 8h Ac
+ThingFish 825134281  4  4 r   b     b     b         6012 1010 1350 
+ThingFish 825134340  5  3 f   -     -     -         6352    0    0 
+ThingFish 825134364  5  2 Bk  kc    kc    k         6352  260  600 9s 5c
+ThingFish 825134430  4  1 Bc  kf    -     -         6692   10    0 
+ThingFish 825134467  4  4 f   -     -     -         6682    0    0 
+ThingFish 825134478  4  3 f   -     -     -         6682    0    0 
+ThingFish 825134489  4  2 Bk  k     b     b         6682   90  120 
+ThingFish 825134529  4  1 Bf  -     -     -         6712    5    0 
+ThingFish 825134557  4  4 f   -     -     -         6707    0    0 
+ThingFish 825134578  4  3 r   b     -     -         6707  120  170 
+ThingFish 825134608  4  2 B   -     -     -         6757   10   15 
+ThingFish 825134616  4  1 Br  b     -     -         6762  115  160 
+ThingFish 825134642  5  5 f   -     -     -         6807    0    0 
+ThingFish 825134662  5  4 f   -     -     -         6807    0    0 
+ThingFish 825134693  5  3 f   -     -     -         6807    0    0 
+ThingFish 825134735  6  2 B   -     -     -         6807   10   15 
+ThingFish 825134745  6  1 Bf  -     -     -         6812    5    0 
+ThingFish 825134774  6  6 f   -     -     -         6807    0    0 
+ThingFish 825134801  6  5 f   -     -     -         6807    0    0 
+ThingFish 825134822  6  4 f   -     -     -         6807    0    0 
+ThingFish 825134848  6  3 f   -     -     -         6807    0    0 
+ThingFish 825134860  6  2 Bc  k     kf    -         6807   35    0 
+ThingFish 825134920  6  1 Bf  -     -     -         6772    5    0 
+ThingFish 825134932  6  6 c   k     k     k         6767   10    0 8c 9s
+ThingFish 825135010  6  5 f   -     -     -         6757    0    0 
+ThingFish 825135054  6  4 f   -     -     -         6757    0    0 
+ThingFish 825135157  6  3 f   -     -     -         6757    0    0 
+ThingFish 825135219  6  2 Bk  b     bc    c         6757  900    0 9d Tc
+ThingFish 825135293  6  1 Bc  k     k     k         5857   10    0 Qc Tc
+ThingFish 825135344  6  6 r   r     c     k         5847  850 1745 Jh Jd
+ThingFish 825135417  6  5 c   k     k     k         6742   10    0 Jc Td
+ThingFish 825135468  6  4 f   -     -     -         6732    0    0 
+ThingFish 825135513  6  3 cc  f     -     -         6732   20    0 
+ThingFish 825135560  6  2 Br  b     b     -         6712  850 1200 
+ThingFish 825135628  6  1 Bc  kf    -     -         7062   10    0 
+ThingFish 825135696  6  6 f   -     -     -         7052    0    0 
+ThingFish 825135724  6  5 cc  f     -     -         7052   40    0 
+ThingFish 825135751  6  4 c   c     k     k         7012  250  600 As 4s
+ThingFish 825135803  6  3 f   -     -     -         7362    0    0 
+ThingFish 825135844  6  2 Bk  kf    -     -         7362   10    0 
+ThingFish 825135889  6  1 Bc  kf    -     -         7352   10    0 
+ThingFish 825135955  5  5 c   c     k     f         7342   45    0 
+ThingFish 825136000  5  4 f   -     -     -         7297    0    0 
+ThingFish 825136040  5  3 f   -     -     -         7297    0    0 
+ThingFish 825136090  5  2 Bk  kf    -     -         7297   10    0 
+ThingFish 825136178  5  1 Bcc kf    -     -         7287   40    0 
+ThingFish 825136243  4  4 c   k     k     f         7247   10    0 
+ThingFish 825136325  3  3 f   -     -     -         7237    0    0 
+ThingFish 825136335  3  2 Bf  -     -     -         7237   10    0 
+ThingFish 825136366  3  1 Bf  -     -     -         7227    5    0 
+ThingFish 825136381  4  3 f   -     -     -         7222    0    0 
+ThingFish 825136415  4  2 Bk  kc    kr    -         7222  220  315 
+ThingFish 825136468  5  1 Bf  -     -     -         7317    5    0 
+ThingFish 825136505  5  5 c   b     b     -         7312  190  270 
+ThingFish 825136561  5  4 f   -     -     -         7392    0    0 
+ThingFish 825136599  5  3 f   -     -     -         7392    0    0 
+ThingFish 825136643  4  2 Bk  kc    kf    -         7392   30    0 
+ThingFish 825136680  4  1 Bc  kf    -     -         7362   10    0 
+ThingFish 825136748  4  4 f   -     -     -         7352    0    0 
+ThingFish 825136754  4  3 cc  kf    -     -         7352   20    0 
+ThingFish 825136824  4  2 Bf  -     -     -         7332   10    0 
+ThingFish 825136863  4  1 Bf  -     -     -         7322    5    0 
+ThingFish 825136894  4  4 f   -     -     -         7317    0    0 
+ThingFish 825136940  5  4 f   -     -     -         7317    0    0 
+ThingFish 825136959  5  3 cc  k     b     -         7317  160  240 
+ThingFish 825137006  5  2 Bf  -     -     -         7397   10    0 
+ThingFish 825466021  7  6 c   k     f     -         7187   10    0 
+ThingFish 825466057  7  5 c   c     b     -         7177  190  270 
+ThingFish 825466110  7  4 f   -     -     -         7257    0    0 
+ThingFish 825466187  8  3 f   -     -     -         7257    0    0 
+ThingFish 825466239  8  2 Bk  kf    -     -         7257   10    0 
+ThingFish 825466323  9  1 Bf  -     -     -         7247    5    0 
+ThingFish 825466356  9  9 c   c     c     r         7242 2025 4095 6s 3s
+ThingFish 825466431  9  8 f   -     -     -         9312    0    0 
+ThingFish 825466565  9  7 c   b     b     -         9312  615 1305 
+ThingFish 825466656  9  6 f   -     -     -        10002    0    0 
+ThingFish 825466717  8  4 f   -     -     -        10002    0    0 
+ThingFish 825466781  8  3 c   kf    -     -        10002   10    0 
+ThingFish 825466868  8  2 Bk  kf    -     -         9992   10    0 
+ThingFish 825466947  8  1 Bc  k     kc    kc        9982  140    0 9d Tc
+ThingFish 825467047  7  7 f   -     -     -         9842    0    0 
+ThingFish 825467137  7  7 f   -     -     -         9842    0    0 
+ThingFish 825467278  8  7 f   -     -     -         9842    0    0 
+ThingFish 825467349  7  5 rc  k     f     -         9842  160    0 
+ThingFish 825467412  6  3 f   -     -     -         9682    0    0 
+ThingFish 825467444  6  2 Bc  kf    -     -         9682   45    0 
+ThingFish 825467491  6  1 Bf  -     -     -         9637    5    0 
+ThingFish 825467524  5  5 c   c     k     b         9632  210    0 As Qh
+ThingFish 825467610  5  4 f   -     -     -         9422    0    0 
+ThingFish 825467698  3  2 f   -     -     -         9422    0    0 
+ThingFish 825467753  3  2 Bf  -     -     -         9422   10    0 
+ThingFish 825467775  3  1 Bf  -     -     -         9412    5    0 
+ThingFish 825467784  3  3 c   r     b     -         9407  310  420 
+ThingFish 825467821  3  2 Bk  c     c     b         9517  520 1080 Kc 4h
+ThingFish 825467890  4  1 Bf  -     -     -        10077    5    0 
+ThingFish 825467913  3  3 c   f     -     -        10072   10    0 
+ThingFish 825467932  3  2 Bk  k     k     k        10062   10   30 5d 6d
+ThingFish 825467972  3  1 Bc  bQ    -     -        10082   30   40 
+ThingFish 825648125  3  2 Bk  k     kf    -        11002   10    0 
+ThingFish 825648146  4  1 Bc  k     k     kf       10992   10    0 
+ThingFish 825648185  4  4 f   -     -     -        10982    0    0 
+ThingFish 825648212  4  3 f   -     -     -        10982    0    0 
+ThingFish 825648241  4  2 Bf  -     -     -        10982   10    0 
+ThingFish 825648272  4  1 Bf  -     -     -        10972    5    0 
+ThingFish 825648297  4  4 f   -     -     -        10967    0    0 
+ThingFish 825648332  4  3 c   kf    -     -        10967   10    0 
+ThingFish 825648361  4  2 Bk  k     b     -        10957   30   40 
+ThingFish 825648400  4  1 Bc  k     k     k        10967   10    0 5d 2d
+ThingFish 825648436  4  4 c   f     -     -        10957   10    0 
+ThingFish 825648479  4  3 f   -     -     -        10947    0    0 
+ThingFish 825648519  5  2 Bk  kf    -     -        10947   10    0 
+ThingFish 825648595  5  1 Bc  k     k     b        10937   40   45 Ad 2c
+ThingFish 825648640  5  5 f   -     -     -        10942    0    0 
+ThingFish 825648664  5  4 f   -     -     -        10942    0    0 
+ThingFish 825648718  5  3 f   -     -     -        10942    0    0 
+ThingFish 825648734  5  2 Bk  kc    kf    -        10942   40    0 
+ThingFish 825648793  5  1 Bc  kf    -     -        10902   10    0 
+ThingFish 825648826  5  5 f   -     -     -        10892    0    0 
+ThingFish 825648850  5  4 f   -     -     -        10892    0    0 
+ThingFish 825648864  5  3 f   -     -     -        10892    0    0 
+ThingFish 825648873  5  2 Bk  b     bf    -        10892  170    0 
+ThingFish 825648918  5  1 Bc  kc    k     b        10722  130  180 
+ThingFish 825648974  5  5 f   -     -     -        10772    0    0 
+ThingFish 825649008  5  4 c   f     -     -        10772   10    0 
+ThingFish 825649029  5  3 f   -     -     -        10762    0    0 
+ThingFish 825649082  5  2 Bk  k     k     k        10762   10    0 4c 2h
+ThingFish 825649167  4  1 Bc  k     kf    -        10752   10    0 
+ThingFish 825649219  4  4 c   f     -     -        10742   10    0 
+ThingFish 825649268  4  3 f   -     -     -        10732    0    0 
+ThingFish 825649315  5  2 Bf  -     -     -        10732   10    0 
+ThingFish 825649355  4  1 Bf  -     -     -        10722    5    0 
+ThingFish 825649396  5  5 f   -     -     -        10717    0    0 
+ThingFish 825649431  5  4 f   -     -     -        10717    0    0 
+ThingFish 825649502  6  3 c   k     f     -        10717   10    0 
+ThingFish 825649552  7  2 Bk  kf    -     -        10707   10    0 
+ThingFish 825649586  6  1 Bf  -     -     -        10697    5    0 
+ThingFish 825649625  6  6 r   -     -     -        10692   55   90 
+ThingFish 825649644  6  5 cc  k     kf    -        10727   20    0 
+ThingFish 825649707  7  4 f   -     -     -        10707    0    0 
+ThingFish 825649788  7  3 c   kcc   kf    -        10707  360    0 
+ThingFish 825649896  8  2 Bk  k     c     c        10347  130  135 4d Qd
+ThingFish 825649950  8  1 Br  kc    k     b        10352  975    0 8h 8c
+ThingFish 825650029  8  8 f   -     -     -         9377    0    0 
+ThingFish 825650074  8  7 f   -     -     -         9377    0    0 
+ThingFish 825650120  8  6 r   k     k     k         9377  120  255 7c 7d
+ThingFish 825650161  8  5 c   k     f     -         9512   10    0 
+ThingFish 825650264  7  3 f   -     -     -         9502    0    0 
+ThingFish 825650303  6  2 Bk  b     -     -         9502   40   60 
+ThingFish 825650338  6  1 Bf  -     -     -         9522    5    0 
+ThingFish 825650379  6  6 r   c     c     b         9517 2395 3240 
+ThingFish 825650443  7  6 f   -     -     -        10362    0    0 
+ThingFish 825650481  7  5 f   -     -     -        10362    0    0 
+ThingFish 825650529  7  4 c   c     b     -        10362  260  400 
+ThingFish 825650578  7  3 f   -     -     -        10502    0    0 
+ThingFish 825650633  7  2 Bk  f     -     -        10502   10    0 
+ThingFish 825650701  7  1 Bc  k     k     k        10492   35    0 Ts Kh
+ThingFish 825650754  8  7 f   -     -     -        10457    0    0 
+ThingFish 825650797  7  6 c   f     -     -        10457   10    0 
+ThingFish 825650840  6  5 f   -     -     -        10447    0    0 
+ThingFish 825650879  6  4 f   -     -     -        10447    0    0 
+ThingFish 825650982  6  3 f   -     -     -        10447    0    0 
+ThingFish 825651025  5  2 Bf  -     -     -        10447   10    0 
+ThingFish 825651112  5  1 Bc  k     k     b        10437   40   60 
+ThingFish 825651182  5  5 f   -     -     -        10457    0    0 
+ThingFish 825651214  5  4 cc  k     k     f        10457   50    0 
+ThingFish 825651254  5  3 cc  kf    -     -        10407   45    0 
+ThingFish 825651290  5  2 Bk  c     k     b        10362  260  600 4d 2d
+ThingFish 825651348  5  1 Bf  -     -     -        10702    5    0 
+ThingFish 825651393  5  5 c   f     -     -        10697   10    0 
+ThingFish 825651574  4  4 c   k     b     k        10687   50    0 Ks 6s
+ThingFish 825651640  4  3 f   -     -     -        10637    0    0 
+ThingFish 825651678  4  2 Bc  kc    kf    -        10637  175    0 
+ThingFish 825651733  5  1 Bc  kf    -     -        10462   10    0 
+ThingFish 825651774  5  5 c   c     c     k        10452  260    0 3s 2s
+ThingFish 825651828  5  4 c   k     k     k        10192   10    0 Ac 6d
+ThingFish 825651910  5  3 c   kf    -     -        10182   10    0 
+ThingFish 825651995  5  2 Bk  f     -     -        10172   10    0 
+ThingFish 825652044  5  1 Br  b     -     -        10162  160  240 
+ThingFish 825652086  5  5 c   k     k     f        10242   10    0 
+ThingFish 825652173  5  4 c   c     f     -        10232   50    0 
+ThingFish 825652236  5  3 f   -     -     -        10182    0    0 
+ThingFish 825652295  5  2 Bk  k     k     k        10182   10   30 2s 3h
+ThingFish 825652347  5  1 Bc  k     k     b        10202   60  150 6d As
+ThingFish 825652435  5  5 c   c     c     k        10292  130    0 Tc Kh
+ThingFish 825652480  5  4 c   f     -     -        10162   10    0 
+ThingFish 825652537  6  3 c   k     kf    -        10152   10    0 
+ThingFish 825652602  6  2 Bk  f     -     -        10142   10    0 
+ThingFish 825652636  6  1 Bf  -     -     -        10132    5    0 
+ThingFish 825652685  6  6 f   -     -     -        10127    0    0 
+ThingFish 825652758  6  5 f   -     -     -        10127    0    0 
+ThingFish 825652831  6  4 c   k     k     f        10127   10    0 
+ThingFish 825652899  6  3 f   -     -     -        10117    0    0 
+ThingFish 825652951  6  2 Bc  k     k     kf       10117   35    0 
+ThingFish 825653000  6  1 Bc  k     kf    -        10082   10    0 
+ThingFish 825653057  5  5 f   -     -     -        10072    0    0 
+ThingFish 825653096  5  4 f   -     -     -        10072    0    0 
+ThingFish 825653129  5  3 c   c     k     c        10072  130  270 9c 9s
+ThingFish 825653166  5  2 Bf  -     -     -        10212   10    0 
+ThingFish 825653189  5  1 Br  -     -     -        10202   40   60 
+ThingFish 825653210  5  5 f   -     -     -        10222    0    0 
+ThingFish 825653246  5  4 c   f     -     -        10222   10    0 
+ThingFish 825653291  5  3 r   b     b     b        10212 1010 1350 
+ThingFish 825653357  5  2 Bk  k     c     c        10552   90    0 3s 9s
+ThingFish 825653390  5  1 BQ  -     -     -        10462    5    0 
+ThingFish 825659231  6  3 f   -     -     -        10457    0    0 
+ThingFish 825659327  6  2 Bk  k     k     k        10457   10    0 9c 2d
+ThingFish 825659371  6  1 Bf  -     -     -        10447    5    0 
+ThingFish 825659413  6  6 f   -     -     -        10442    0    0 
+ThingFish 825659429  6  5 f   -     -     -        10442    0    0 
+ThingFish 825659460  6  4 c   b     -     -        10442   40   60 
+ThingFish 825659503  6  3 f   -     -     -        10462    0    0 
+ThingFish 825659521  6  2 Bk  k     k     b        10462   45   70 
+ThingFish 825659563  6  1 Bf  -     -     -        10487    5    0 
+ThingFish 825659588  6  6 f   -     -     -        10482    0    0 
+ThingFish 825659609  6  5 f   -     -     -        10482    0    0 
+ThingFish 825659638  6  4 f   -     -     -        10482    0    0 
+ThingFish 825659665  6  3 c   k     b     b        10482  210  320 
+ThingFish 825659717  6  2 Bk  k     kc    k        10592   45    0 2h Qh
+ThingFish 825659763  6  1 Bf  -     -     -        10547    5    0 
+ThingFish 825659800  6  6 f   -     -     -        10542    0    0 
+ThingFish 825659823  6  5 r   -     -     -        10542   35   50 
+ThingFish 825659839  6  4 f   -     -     -        10557    0    0 
+ThingFish 825659853  6  3 f   -     -     -        10557    0    0 
+ThingFish 825659890  6  2 Br  -     -     -        10557   40   60 
+ThingFish 825659909  6  1 Bf  -     -     -        10577    5    0 
+ThingFish 825659921  6  6 f   -     -     -        10572    0    0 
+ThingFish 825659934  6  5 f   -     -     -        10572    0    0 
+ThingFish 825659999  7  4 f   -     -     -        10572    0    0 
+ThingFish 825660022  7  3 f   -     -     -        10572    0    0 
+ThingFish 825660057  7  2 Bf  -     -     -        10572   10    0 
+ThingFish 825660099  6  1 Bc  kc    kc    k        10562  170  180 9d 8d
+ThingFish 825660142  6  6 f   -     -     -        10572    0    0 
+ThingFish 825660178  6  5 f   -     -     -        10572    0    0 
+ThingFish 825660207  6  4 f   -     -     -        10572    0    0 
+ThingFish 825660257  6  3 r   -     -     -        10572   35   50 
+ThingFish 825660271  6  2 Bk  k     k     b        10587   55   90 
+ThingFish 825660321  6  1 Br  b     -     -        10622  485  660 
+ThingFish 825660360  7  6 f   -     -     -        10797    0    0 
+ThingFish 825660388  7  5 c   c     c     k        10797  230    0 Td 2d
+ThingFish 825660466  7  4 c   k     k     f        10567   10    0 
+ThingFish 825660541  8  3 f   -     -     -        10557    0    0 
+ThingFish 825660594  7  2 Bk  kf    -     -        10557   10    0 
+ThingFish 825660636  7  1 Bc  k     k     k        10547   10   10 6c 7s
+ThingFish 825660669  7  7 f   -     -     -        10547    0    0 
+ThingFish 825660746  7  6 cc  c     k     k        10547  130  270 Kd Jh
+ThingFish 825660823  5  3 c   k     k     b        10687   45   70 
+ThingFish 825660856  5  2 Bk  k     c     f        10712   50    0 
+ThingFish 825660897  6  1 Bf  -     -     -        10662    5    0 
+ThingFish 825660958  5  5 c   b     -     -        10657   40   60 
+ThingFish 825661018  6  4 f   -     -     -        10677    0    0 
+ThingFish 825661057  6  3 f   -     -     -        10677    0    0 
+ThingFish 825661072  6  2 Bf  -     -     -        10677   10    0 
+ThingFish 825661089  5  1 Bc  kc    kr    b        10667 3235 4320 
+ThingFish 825661204  5  5 c   k     k     b        11752   35   50 
+ThingFish 825661242  5  4 c   c     b     k        11767  170    0 5h 2h
+ThingFish 825661293  5  3 f   -     -     -        11597    0    0 
+ThingFish 825661322  5  2 Bf  -     -     -        11597   10    0 
+ThingFish 825661381  4  1 Bf  -     -     -        11587    5    0 
+ThingFish 825661421  4  4 c   f     -     -        11582   35    0 
+ThingFish 825661455  5  3 f   -     -     -        11547    0    0 
+ThingFish 825661513  5  2 Bc  kf    -     -        11547   35    0 
+ThingFish 825661538  5  1 Bc  kf    -     -        11512   10    0 
+ThingFish 825661566  5  5 c   c     c     k        11502  595    0 7d 6d
+ThingFish 825661606  5  4 c   k     f     -        10907   10    0 
+ThingFish 825661642  5  3 f   -     -     -        10897    0    0 
+ThingFish 825661655  5  2 Bk  f     -     -        10897   10    0 
+ThingFish 825661686  5  1 Bc  k     kf    -        10887   10    0 
+ThingFish 825661741  5  5 f   -     -     -        10877    0    0 
+ThingFish 825661755  5  4 f   -     -     -        10877    0    0 
+ThingFish 825661770  5  3 c   b     b     b        10877  530    0 Kd 7d
+ThingFish 825661842  5  2 Bf  -     -     -        10347   10    0 
+ThingFish 825661864  4  1 Bf  -     -     -        10337    5    0 
+ThingFish 825661882  4  4 c   c     k     f        10332  145    0 
+ThingFish 825661927  4  3 c   c     r     -        10187  465  630 
+ThingFish 825662006  4  2 Bk  k     kf    -        10352   10    0 
+ThingFish 825662049  4  1 Bf  -     -     -        10342    5    0 
+ThingFish 825662081  4  4 c   k     f     -        10337   10    0 
+ThingFish 825662126  4  3 cc  kf    -     -        10327   45    0 
+ThingFish 825662162  4  2 Bk  f     -     -        10282   10    0 
+ThingFish 825662193  4  1 Bc  b     b     -        10272  170  240 
+ThingFish 825662251  4  4 f   -     -     -        10342    0    0 
+ThingFish 825662260  4  3 f   -     -     -        10342    0    0 
+ThingFish 825662283  4  2 Bk  b     -     -        10342   30   40 
+ThingFish 825662317  3  1 Bf  -     -     -        10352    5    0 

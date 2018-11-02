@@ -1,0 +1,552 @@
+darkstar  823199878 10  6 f   -     -     -        15871    0    0 
+darkstar  823199943 10  5 f   -     -     -        15871    0    0 
+darkstar  823200028 10  5 c   k     kQ    -        15871   10    0 
+darkstar  823200844  9  9 f   -     -     -        15861    0    0 
+darkstar  823200879  9  8 c   c     c     k        15861  970    0 Ks Kh
+darkstar  823200970 10  8 f   -     -     -        14891    0    0 
+darkstar  823200993 10  7 f   -     -     -        14891    0    0 
+darkstar  823201082 10  6 f   -     -     -        14891    0    0 
+darkstar  823201148 10  5 f   -     -     -        14891    0    0 
+darkstar  823201201 10  4 f   -     -     -        14891    0    0 
+darkstar  823201270 10  3 f   -     -     -        14891    0    0 
+darkstar  823201324 10  2 Bk  f     -     -        14891   10    0 
+darkstar  823201396 10  1 Bc  b     kc    b        14881 1310 2000 
+darkstar  823201496 10 10 f   -     -     -        15571    0    0 
+darkstar  823201540 10  9 c   f     -     -        15571   10    0 
+darkstar  823201633 10  8 f   -     -     -        15561    0    0 
+darkstar  823201724 11  8 f   -     -     -        15561    0    0 
+darkstar  823201830 10  6 c   f     -     -        15561   10    0 
+darkstar  823201947 12  7 c   k     f     -        15551   35    0 
+darkstar  823202020 12  6 f   -     -     -        15516    0    0 
+darkstar  823202066 12  5 f   -     -     -        15516    0    0 
+darkstar  823202109 12  4 f   -     -     -        15516    0    0 
+darkstar  823202166 12  3 fQ  -     -     -        15516    0    0 
+darkstar  823222111  6  2 Bk  kf    -     -        15516   10    0 
+darkstar  823222167  6  1 Bc  kcf   -     -        15506  285    0 
+darkstar  823222259  6  6 c   f     -     -        15221   10    0 
+darkstar  823222308  5  4 f   -     -     -        15211    0    0 
+darkstar  823222336  5  3 fQ  -     -     -        15211    0    0 
+darkstar  823223142  3  1 Bf  -     -     -        15211    5    0 
+darkstar  823223174  3  3 c   c     c     b        15206  265  540 Ah 9h
+darkstar  823223231  3  2 Bk  k     bc    b        15481  335  450 
+darkstar  823223279  3  1 Bc  k     kf    -        15596   10    0 
+darkstar  823223302  3  3 c   k     k     k        15586   10   25 9s As
+darkstar  823223328  3  2 Bk  f     -     -        15601   10    0 
+darkstar  823223345  3  1 Bc  k     b     -        15591   40   60 
+darkstar  823223368  3  3 c   k     f     -        15611   10    0 
+darkstar  823223386  3  2 Bk  f     -     -        15601   10    0 
+darkstar  823223399  3  1 Bf  -     -     -        15591    5    0 
+darkstar  823223404  3  3 r   -     -     -        15586   35   50 
+darkstar  823223411  3  2 Bk  f     -     -        15601   10    0 
+darkstar  823223423  3  1 Bf  -     -     -        15591    5    0 
+darkstar  823223428  3  3 r   -     -     -        15586   35   50 
+darkstar  823223439  3  2 Bk  b     -     -        15601   30   40 
+darkstar  823223464  3  1 Bf  -     -     -        15611    5    0 
+darkstar  823223469  3  3 f   -     -     -        15606    0    0 
+darkstar  823223473  3  2 B   -     -     -        15606   10   15 
+darkstar  823223483  3  1 Bc  kf    -     -        15611   10    0 
+darkstar  823223502  3  3 r   k     k     k        15601   35   80 Ah Qc
+darkstar  823223530  3  2 Bk  k     f     -        15646   10    0 
+darkstar  823223554  3  1 Bf  -     -     -        15636    5    0 
+darkstar  823223577  3  3 r   b     -     -        15631  140  210 
+darkstar  823223608  3  2 Bk  f     -     -        15701   10    0 
+darkstar  823223640  3  1 Bc  k     kc    k        15691   40   90 Ah Qd
+darkstar  823223674  3  3 r   b     -     -        15741  140  210 
+darkstar  823223698  3  2 Bk  c     b     -        15811   90  120 
+darkstar  823223716  3  1 Bf  -     -     -        15841    5    0 
+darkstar  823223723  3  3 f   -     -     -        15836    0    0 
+darkstar  823223750  3  2 Bk  k     b     k        15836   40   90 3c Jc
+darkstar  823223774  3  1 Bf  -     -     -        15886    5    0 
+darkstar  823223809  3  3 c   b     -     -        15881   35   50 
+darkstar  823223826  3  2 B   -     -     -        15896   10   15 
+darkstar  823223836  3  1 Bf  -     -     -        15901    5    0 
+darkstar  823223885  3  3 f   -     -     -        15896    0    0 
+darkstar  823223894  3  2 Bk  b     -     -        15896   40   60 
+darkstar  823223919  3  1 Bf  -     -     -        15916    5    0 
+darkstar  823223924  3  3 r   -     -     -        15911   35   50 
+darkstar  823223930  3  2 Bk  k     b     -        15926   35   50 
+darkstar  823223948  3  1 Bc  kc    krr   -        15941 2430 3240 
+darkstar  823223983  3  3 f   -     -     -        16751    0    0 
+darkstar  823224033  3  2 Bk  b     -     -        16751   30   40 
+darkstar  823224052  4  1 Bc  kc    k     bc       16761  238  486 6c 4d
+darkstar  823224091  4  4 f   -     -     -        17009    0    0 
+darkstar  823224119  4  3 f   -     -     -        17009    0    0 
+darkstar  823224137  4  2 Bk  b     -     -        17009   30   40 
+darkstar  823224163  4  1 Bc  k     k     k        17019   10    0 Th 8d
+darkstar  823224185  4  4 c   c     k     k        17009   45   46 Js Qs
+darkstar  823224232  4  3 r   kc    k     b        17010  475  990 Qd Kh
+darkstar  823224287  4  2 Bc  kf    -     -        17525   35    0 
+darkstar  823224304  4  1 Bf  -     -     -        17490    5    0 
+darkstar  823224313  4  4 c   f     -     -        17485   10    0 
+darkstar  823224332  4  3 r   c     f     -        17475   50    0 
+darkstar  823224359  4  2 Bk  k     b     -        17425   30   40 
+darkstar  823224381  4  1 Bf  -     -     -        17435    5    0 
+darkstar  823224392  4  4 r   -     -     -        17430   35   50 
+darkstar  823224401  4  3 f   -     -     -        17445    0    0 
+darkstar  823224406  4  2 Bk  c     k     f        17445   30    0 
+darkstar  823224438  4  1 Bf  -     -     -        17415    5    0 
+darkstar  823224446  4  4 cc  b     b     -        17410  465  630 
+darkstar  823224471  4  3 c   c     c     b        17575  175  360 Qd Kd
+darkstar  823224516  4  2 B   -     -     -        17760   10   15 
+darkstar  823224528  5  1 Bc  kf    -     -        17765   10    0 
+darkstar  823224570  5  5 f   -     -     -        17755    0    0 
+darkstar  823224630  5  4 c   c     c     f        17755  210    0 
+darkstar  823224694  5  3 f   -     -     -        17545    0    0 
+darkstar  823224708  5  2 Bk  kc    k     b        17545  185  420 5h Kd
+darkstar  823224738  5  1 Bf  -     -     -        17780    5    0 
+darkstar  823224781  5  5 f   -     -     -        17775    0    0 
+darkstar  823224809  5  4 c   f     -     -        17775   10    0 
+darkstar  823224836  5  3 f   -     -     -        17765    0    0 
+darkstar  823224856  5  2 Bk  f     -     -        17765   10    0 
+darkstar  823224887  5  1 Bc  kc    kf    -        17755   60    0 
+darkstar  823224963  5  5 c   c     f     -        17695   55    0 
+darkstar  823224997  5  4 cc  c     c     k        17640 1050    0 Td 7d
+darkstar  823225061  5  3 f   -     -     -        16590    0    0 
+darkstar  823225124  5  2 Bk  kf    -     -        16590   10    0 
+darkstar  823225169  3  1 Bc  k     kr    b        16580  270  540 Jc 7c
+darkstar  823225198  3  3 Q   -     -     -        16850    0    0 
+darkstar  823393656  6  4 f   -     -     -        16730    0    0 
+darkstar  823393707  6  3 c   k     bf    -        16730   65    0 
+darkstar  823393820  6  2 Bk  k     kf    -        16665   10    0 
+darkstar  823393862  4  1 Bc  kf    -     -        16655   10    0 
+darkstar  823393882  4  4 Q   -     -     -        16645    0    0 
+darkstar  823564285  4  4 cc  c     b     -        16285  400  540 
+darkstar  823564322  5  3 c   b     -     -        16425   50   80 
+darkstar  823564353  5  2 Bk  kf    -     -        16455   10    0 
+darkstar  823564392  5  1 Bc  k     kf    -        16445   45    0 
+darkstar  823564429  6  6 f   -     -     -        16400    0    0 
+darkstar  823564473  8  7 f   -     -     -        16400    0    0 
+darkstar  823564507  8  6 c   c     b     -        16400  515  720 
+darkstar  823564566  8  5 f   -     -     -        16605    0    0 
+darkstar  823564599  8  4 f   -     -     -        16605    0    0 
+darkstar  823564652  8  3 f   -     -     -        16605    0    0 
+darkstar  823564710  8  2 Bk  k     k     kf       16605   10    0 
+darkstar  823564792  8  1 Bc  kc    k     k        16595  345  840 Kc Ks
+darkstar  823564840  7  7 c   b     -     -        17090   50   80 
+darkstar  823564878  7  6 c   k     bc    k        17120  130  270 Kd 5c
+darkstar  823564936  7  5 f   -     -     -        17260    0    0 
+darkstar  823564980  7  4 f   -     -     -        17260    0    0 
+darkstar  823565024  7  3 c   kc    k     k        17260   60  150 Qh 9h
+darkstar  823565101  7  2 Bk  kf    -     -        17350   10    0 
+darkstar  823565136  7  1 Bf  -     -     -        17340    5    0 
+darkstar  823565204  6  6 c   b     -     -        17335   45   70 
+darkstar  823565241  6  5 c   c     b     -        17360  160  240 
+darkstar  823565287  6  4 c   b     -     -        17440   50   80 
+darkstar  823565338  6  3 f   -     -     -        17470    0    0 
+darkstar  823565392  6  2 Bk  c     k     k        17470   40    0 2c 3s
+darkstar  823565456  7  1 Bc  k     kc    k        17430   50    0 As 9c
+darkstar  823565499  7  7 f   -     -     -        17380    0    0 
+darkstar  823565615  6  6 c   k     b     -        17380   65  110 
+darkstar  823565679  6  5 c   k     k     f        17425   10    0 
+darkstar  823565736  5  3 c   k     k     k        17415   10    0 Qc 5c
+darkstar  823565782  5  2 Bk  k     k     kf       17405   10    0 
+darkstar  823565824  5  1 Bf  -     -     -        17395    5    0 
+darkstar  823565846  5  5 c   f     -     -        17390   10    0 
+darkstar  823565924  6  5 c   f     -     -        17380   10    0 
+darkstar  823565974  6  4 c   b     k     kf       17370   50    0 
+darkstar  823566025  6  3 f   -     -     -        17320    0    0 
+darkstar  823566056  6  2 Bk  k     b     -        17320   40   60 
+darkstar  823566081  6  1 Bc  kc    k     k        17340  115  240 Kh Td
+darkstar  823566107  5  5 c   k     b     -        17465   40   60 
+darkstar  823566154  5  4 c   b     -     -        17485   50   80 
+darkstar  823566175  5  3 c   b     kf    -        17515   50    0 
+darkstar  823566248  5  2 Bk  b     -     -        17465   40   60 
+darkstar  823566277  5  1 Bc  k     k     k        17485   10   20 9s Qc
+darkstar  823566311  5  5 c   f     -     -        17495   20    0 
+darkstar  823566345  5  4 c   k     c     c        17475  210    0 Qc Js
+darkstar  823566390  5  3 c   k     k     k        17265   10    0 2d 9d
+darkstar  823566423  5  2 Bk  k     kc    k        17255   35    0 4c 3h
+darkstar  823566451  5  1 Bc  k     k     b        17220   30   40 
+darkstar  823566477  6  5 f   -     -     -        17230    0    0 
+darkstar  823566499  6  4 f   -     -     -        17230    0    0 
+darkstar  823566506  6  3 f   -     -     -        17230    0    0 
+darkstar  823566530  6  2 Bk  k     k     k        17230   10   30 Ac 6s
+darkstar  823566563  6  1 Bf  -     -     -        17250    5    0 
+darkstar  823566571  6  6 c   f     -     -        17245   10    0 
+darkstar  823566589  6  5 f   -     -     -        17235    0    0 
+darkstar  823566601  6  4 f   -     -     -        17235    0    0 
+darkstar  823566648  6  3 f   -     -     -        17235    0    0 
+darkstar  823566677  6  2 Bk  kc    c     k        17235  260  300 Kc Qs
+darkstar  823566737  6  1 Bf  -     -     -        17275    5    0 
+darkstar  823566765  6  6 c   b     k     b        17270  170  240 
+darkstar  823566808  7  5 c   c     c     c        17340  595    0 Qd 4h
+darkstar  823566852  7  4 c   kc    kf    -        16745   50    0 
+darkstar  823566938  7  3 c   f     -     -        16695   10    0 
+darkstar  823567008  6  2 Bk  k     k     k        16685   10   20 Kc 4d
+darkstar  823567050  6  1 Bc  kc    k     k        16695   40  120 Kc Ah
+darkstar  823567093  5  5 c   k     f     -        16775   10    0 
+darkstar  823567138  5  4 f   -     -     -        16765    0    0 
+darkstar  823567177  4  3 f   -     -     -        16765    0    0 
+darkstar  823567187  4  2 Bc  k     kf    -        16765   40    0 
+darkstar  823567218  4  1 Bf  -     -     -        16725    5    0 
+darkstar  823567240  4  4 r   -     -     -        16720   35   50 
+darkstar  823567259  4  3 r   b     -     -        16735  110  150 
+darkstar  823567285  4  2 Bk  f     -     -        16775   10    0 
+darkstar  823567302  4  1 Bc  k     k     k        16765   10    0 7s 2d
+darkstar  823567337  4  4 c   f     -     -        16755   10    0 
+darkstar  823567363  4  3 c   b     b     -        16745  130  180 
+darkstar  823567397  4  2 Bk  b     b     c        16795  400  810 9c 4d
+darkstar  823567429  4  1 Bc  k     b     k        17205   50    0 9d Jh
+darkstar  823567466  4  4 c   Q     -     -        17155   10    0 
+darkstar  823575087  3  3 c   k     k     f        16845   10    0 
+darkstar  823575119  4  2 B   -     -     -        16835   10   15 
+darkstar  823575130  4  1 Bc  k     k     b        16840   40   60 
+darkstar  823575162  5  5 f   -     -     -        16860    0    0 
+darkstar  823575198  6  5 f   -     -     -        16860    0    0 
+darkstar  823575251  7  5 r   b     -     -        16860  150  210 
+darkstar  823575287  7  4 rc  c     f     -        16920  370    0 
+darkstar  823575342  7  3 f   -     -     -        16550    0    0 
+darkstar  823575407  7  2 Bf  -     -     -        16550   10    0 
+darkstar  823575430  7  1 Bc  kc    k     k        16540   50  120 7d Jh
+darkstar  823575482  7  7 c   c     f     -        16610   65    0 
+darkstar  823575547  7  6 c   k     kf    -        16545   10    0 
+darkstar  823575592  7  5 c   f     -     -        16535   10    0 
+darkstar  823575682  7  4 cc  f     -     -        16525  235    0 
+darkstar  823909941  6  3 cc  kc    k     b        18749  465  630 
+darkstar  823909975  6  2 Bc  kf    -     -        18914   35    0 
+darkstar  823909996  6  1 Bc  kc    kc    kf       18879  355    0 
+darkstar  823910041  6  6 f   -     -     -        18524    0    0 
+darkstar  823910105  6  5 cc  f     -     -        18524   60    0 
+darkstar  823910184  7  4 f   -     -     -        18464    0    0 
+darkstar  823910247  7  3 f   -     -     -        18464    0    0 
+darkstar  823910304  7  2 Bk  kf    -     -        18464   10    0 
+darkstar  823910344  6  1 Bcc k     kf    -        18454  310    0 
+darkstar  823910430  6  6 c   k     k     f        18144   10    0 
+darkstar  823910528  6  5 f   -     -     -        18134    0    0 
+darkstar  823910553  6  4 f   -     -     -        18134    0    0 
+darkstar  823910621  6  3 f   -     -     -        18134    0    0 
+darkstar  823910688  7  2 Bf  -     -     -        18134   10    0 
+darkstar  823910725  7  1 Bf  -     -     -        18124    5    0 
+darkstar  823910788  4  4 c   b     -     -        18119   30   40 
+darkstar  823910811  4  4 f   -     -     -        18129    0    0 
+darkstar  823910852  4  3 cc  k     b     -        18129  210  320 
+darkstar  823911102  2  1 B   -     -     -        18239   10   10 
+darkstar  823911114  2  1 BQ  -     -     -        18239    5    0 
+darkstar  823924105  5  3 f   -     -     -        18584    0    0 
+darkstar  823924141  6  2 Bk  k     kf    -        18584   10    0 
+darkstar  823924193  7  1 Bf  -     -     -        18574    5    0 
+darkstar  823924236  7  7 f   -     -     -        18569    0    0 
+darkstar  823924282  7  6 c   c     f     -        18569   50    0 
+darkstar  823924353  7  5 f   -     -     -        18519    0    0 
+darkstar  823924375  7  4 c   k     b     -        18519   50   80 
+darkstar  823924442  6  3 f   -     -     -        18549    0    0 
+darkstar  823924461  6  2 Bk  kf    -     -        18549   10    0 
+darkstar  823924480  6  1 Bf  -     -     -        18539    5    0 
+darkstar  823924505  6  6 f   -     -     -        18534    0    0 
+darkstar  823924524  6  5 c   b     b     -        18534  250  360 
+darkstar  823924584  6  4 f   -     -     -        18644    0    0 
+darkstar  823924639  6  3 f   -     -     -        18644    0    0 
+darkstar  823924685  6  2 Bf  -     -     -        18644   10    0 
+darkstar  823924696  6  1 Bf  -     -     -        18634    5    0 
+darkstar  823924713  6  6 cf  -     -     -        18629   10    0 
+darkstar  823924780  5  5 r   b     -     -        18619  110  150 
+darkstar  823924827  4  3 f   -     -     -        18659    0    0 
+darkstar  823924841  3  2 Bk  k     f     -        18659   10    0 
+darkstar  823924886  2  1 Bf  -     -     -        18649    5    0 
+darkstar  823924892  2  2 Bk  Q     -     -        18644   10    0 
+darkstar  824163240  9  5 f   -     -     -        18694    0    0 
+darkstar  824163319  9  4 f   -     -     -        18694    0    0 
+darkstar  824163382  9  3 f   -     -     -        18694    0    0 
+darkstar  824163434 10  2 Bk  kf    -     -        18694   10    0 
+darkstar  824163479  9  1 Bf  -     -     -        18684    5    0 
+darkstar  824163555  9  9 c   c     f     -        18679   60    0 
+darkstar  824163601  9  8 f   -     -     -        18619    0    0 
+darkstar  824163680  8  6 f   -     -     -        18619    0    0 
+darkstar  824163696  8  5 f   -     -     -        18619    0    0 
+darkstar  824163761  8  4 f   -     -     -        18619    0    0 
+darkstar  824163835  8  3 c   b     -     -        18619   70  120 
+darkstar  824163910  8  2 Bc  k     k     k        18669   65    0 9d Jd
+darkstar  824163999  8  1 Bc  kc    k     b        18604  355  720 Ah Ac
+darkstar  824164040  8  8 r   b     -     -        18969  185  280 
+darkstar  824164086  8  7 f   -     -     -        19064    0    0 
+darkstar  824164204  9  7 cc  c     b     b        19064 1560 2160 
+darkstar  824164281  7  5 c   c     k     f        19664   40    0 
+darkstar  824164355  7  4 f   -     -     -        19624    0    0 
+darkstar  824164407  6  2 BQ  -     -     -        19624   10    0 
+darkstar  824167574 10  3 f   -     -     -        19614    0    0 
+darkstar  824167635 10  2 Bk  kf    -     -        19614   10    0 
+darkstar  824167703  8  1 Bf  -     -     -        19604    5    0 
+darkstar  824167755  7  7 c   bf    -     -        19599   40    0 
+darkstar  824167788  6  6 f   -     -     -        19559    0    0 
+darkstar  824167827  7  5 f   -     -     -        19559    0    0 
+darkstar  824167854  6  3 c   fQ    -     -        19559   10    0 
+darkstar  824170154  7  6 c   c     b     f        19549  595    0 
+darkstar  824170263  6  4 f   -     -     -        18954    0    0 
+darkstar  824170350  8  3 cc  Q     -     -        18954   45    0 
+darkstar  824422611  3  1 Bc  k     b     -        22249   30   40 
+darkstar  824422632  3  3 f   -     -     -        22259    0    0 
+darkstar  824422637  3  2 Bf  -     -     -        22259   10    0 
+darkstar  824422686  4  1 Bc  k     b     -        22249   30   40 
+darkstar  824422725  5  5 f   -     -     -        22259    0    0 
+darkstar  824422753  5  4 r   b     -     -        22259  110  150 
+darkstar  824422835  5  3 c   -     -     -        22299   10   25 
+darkstar  824422916  5  2 f   -     -     -        22314    0    0 
+darkstar  824422979  6  2 Bk  k     b     b        22314   90  120 
+darkstar  824423076  8  1 Bc  k     bc    kc       22344  210  420 Js Kc
+darkstar  824423162  9  9 f   -     -     -        22554    0    0 
+darkstar  824423193 10  9 c   f     -     -        22554   10    0 
+darkstar  824423259 10  8 f   -     -     -        22544    0    0 
+darkstar  824423322 11  8 f   -     -     -        22544    0    0 
+darkstar  824423440 11  8 cc  k     f     -        22544   60    0 
+darkstar  824423533 10  6 c   kc    kf    -        22484   60    0 
+darkstar  824423612 11  5 c   kc    kf    -        22424   85    0 
+darkstar  824423696 11  4 c   kf    -     -        22339   10    0 
+darkstar  824423799 11  3 f   -     -     -        22329    0    0 
+darkstar  824423883 11  2 Bc  kf    -     -        22329   35    0 
+darkstar  824423987 11  1 Bf  -     -     -        22294    5    0 
+darkstar  824424050  9  9 c   f     -     -        22289   10    0 
+darkstar  824424111  9  8 f   -     -     -        22279    0    0 
+darkstar  824424140  9  7 f   -     -     -        22279    0    0 
+darkstar  824424188  9  6 cc  k     k     f        22279   45    0 
+darkstar  824424260  9  4 cf  -     -     -        22234   10    0 
+darkstar  824424375  9  3 QQ  -     -     -        22222    0    0 
+darkstar  824425500  7  2 Bf  -     -     -        22222   10    0 
+darkstar  824425525  7  1 Bc  kf    -     -        22212   55    0 
+darkstar  824425596  7  7 c   k     k     b        22157  120  255 Ts Kh
+darkstar  824425658  7  6 c   f     -     -        22292   10    0 
+darkstar  824425740  8  5 cc  kc    kf    -        22282  240    0 
+darkstar  824425808  8  4 c   b     b     k        22042  170    0 Td Qc
+darkstar  824425878  8  3 f   -     -     -        21872    0    0 
+darkstar  824425916  8  2 Bk  kf    -     -        21872   10    0 
+darkstar  824426025  8  1 Bf  -     -     -        21862    5    0 
+darkstar  824426051  8  8 f   -     -     -        21857    0    0 
+darkstar  824426113  8  7 c   b     -     -        21857   75  130 
+darkstar  824426149  7  6 f   -     -     -        21912    0    0 
+darkstar  824426209  8  5 c   k     k     f        21912   45    0 
+darkstar  824426270  8  4 f   -     -     -        21867    0    0 
+darkstar  824426312  8  3 c   c     c     k        21867  210    0 Js Tc
+darkstar  824426353  8  2 Bk  kc    k     k        21657   40    0 Ah 2h
+darkstar  824426392  8  1 Bf  -     -     -        21617    5    0 
+darkstar  824426474  8  8 c   f     -     -        21612   10    0 
+darkstar  824426527  8  7 f   -     -     -        21602    0    0 
+darkstar  824426589  8  6 c   k     k     c        21602   40   90 3s 2s
+darkstar  824426702  8  5 f   -     -     -        21652    0    0 
+darkstar  824426761  8  4 f   -     -     -        21652    0    0 
+darkstar  824426784  7  2 c   kf    -     -        21652   10    0 
+darkstar  824426843  7  2 Bk  kf    -     -        21642   10    0 
+darkstar  824426900  7  1 Bc  k     b     -        21632  140  210 
+darkstar  824426955  7  7 c   f     -     -        21702   10    0 
+darkstar  824426994  7  6 f   -     -     -        21692    0    0 
+darkstar  824427007  7  5 f   -     -     -        21692    0    0 
+darkstar  824427045  6  3 Q   -     -     -        21692    0    0 
+darkstar  824433018  4  3 c   k     b     -        21692   45   70 
+darkstar  824433059  4  2 Bk  f     -     -        21717   10    0 
+darkstar  824433087  4  1 Bc  kf    -     -        21707   10    0 
+darkstar  824433116  4  4 f   -     -     -        21697    0    0 
+darkstar  824433161  5  3 f   -     -     -        21697    0    0 
+darkstar  824433186  5  2 Bk  k     b     b        21697  150  210 
+darkstar  824433217  5  1 Bc  k     b     b        21757  210  320 
+darkstar  824433258  5  5 r   b     -     -        21867  110  225 
+darkstar  824433305  6  4 r   b     k     k        21982  140    0 9c Js
+darkstar  824433370  6  3 c   b     -     -        21842   60  100 
+darkstar  824433455  7  2 Bc  kf    -     -        21882   65    0 
+darkstar  824433491  7  1 Bc  k     kf    -        21817   55    0 
+darkstar  824433574  9  9 f   -     -     -        21762    0    0 
+darkstar  824433646  9  8 c   kf    -     -        21762   10    0 
+darkstar  824433705  9  7 c   b     -     -        21752   70  120 
+darkstar  824433772  8  5 c   c     k     k        21802   50  120 3d 3c
+darkstar  824433839  8  5 cc  f     -     -        21872   50    0 
+darkstar  824433895  8  4 cc  f     -     -        21822   70    0 
+darkstar  824433981  8  3 f   -     -     -        21752    0    0 
+darkstar  824434018  7  2 Bk  kc    k     f        21752   60    0 
+darkstar  824434100  8  1 Bc  k     b     -        21692   60  100 
+darkstar  824434235  8  8 f   -     -     -        21732    0    0 
+darkstar  824434282  8  7 c   b     -     -        21732   60  100 
+darkstar  824434350  9  7 f   -     -     -        21772    0    0 
+darkstar  824434507  9  6 f   -     -     -        21772    0    0 
+darkstar  824434574  9  5 c   b     bc    kc       21772 2610    0 Kd 6d
+darkstar  824434681  8  4 c   k     cc    kc       19162  280    0 8c 8h
+darkstar  824434820  8  3 cc  kc    kc    kc       18882  995    0 5s Ad
+darkstar  824434912  6  2 Bc  k     k     k        17887   45    0 2c 5c
+darkstar  824434961  5  1 Bf  -     -     -        17842    5    0 
+darkstar  824435000  5  4 f   -     -     -        17837    0    0 
+darkstar  824435035  5  3 c   k     f     -        17837   10    0 
+darkstar  824435106  5  2 Bk  k     f     -        17827   10    0 
+darkstar  824435162  7  1 Bc  kf    -     -        17817   20    0 
+darkstar  824435220  6  6 c   f     -     -        17797   10    0 
+darkstar  824435277  5  4 f   -     -     -        17787    0    0 
+darkstar  824435306  5  4 c   kc    kc    k        17787  185  420 3s As
+darkstar  824435354  5  3 f   -     -     -        18022    0    0 
+darkstar  824435368  5  2 Bf  -     -     -        18022   10    0 
+darkstar  824435382  5  1 Bf  -     -     -        18012    5    0 
+darkstar  824435391  5  5 c   c     b     -        18007  170  240 
+darkstar  824435429  5  4 c   r     k     k        18077  140  330 6s 8d
+darkstar  824435484  5  3 f   -     -     -        18267    0    0 
+darkstar  824435501  5  2 B   -     -     -        18267   10   15 
+darkstar  824435542  5  1 Bc  kc    kc    kc       18272  400    0 9c 8c
+darkstar  824435581  5  5 c   f     -     -        17872   10    0 
+darkstar  824435598  5  4 r   k     f     -        17862   35    0 
+darkstar  824435636  5  3 f   -     -     -        17827    0    0 
+darkstar  824435681  5  2 Bk  k     k     b        17827   50  120 Js Th
+darkstar  824435718  5  1 Bc  kc    kc    kc       17897 6410    0 8c 3c
+darkstar  824435778  5  5 c   k     b     b        11487  495 1035 Ks Td
+darkstar  824435833  6  4 f   -     -     -        12027    0    0 
+darkstar  824435876  6  3 f   -     -     -        12027    0    0 
+darkstar  824435904  6  2 Bk  kf    -     -        12027   10    0 
+darkstar  824435939  6  1 Bf  -     -     -        12017    5    0 
+darkstar  824435965  6  6 c   f     -     -        12012   10    0 
+darkstar  824436029  6  5 rc  c     c     b        12002 3035 6075 9s 9c
+darkstar  824436127  4  2 Bk  k     b     -        15042   35   50 
+darkstar  824436168  2  1 Bc  k     kf    -        15057   10    0 
+darkstar  824436186  2  2 BQ  -     -     -        15047   10   15 
+darkstar  824511620  9  5 cc  kf    -     -        14977   45    0 
+darkstar  824511668  9  4 c   kf    -     -        14932   10    0 
+darkstar  824511723  9  3 f   -     -     -        14922    0    0 
+darkstar  824511816  9  2 Bk  k     k     kc       14922   50    0 8h Js
+darkstar  824511894  8  1 Bf  -     -     -        14872    5    0 
+darkstar  824511929  7  7 c   k     f     -        14867   10    0 
+darkstar  824511981  8  6 f   -     -     -        14857    0    0 
+darkstar  824512004  8  5 f   -     -     -        14857    0    0 
+darkstar  824512066  7  3 f   -     -     -        14857    0    0 
+darkstar  824512118  6  2 Bc  kc    kc    bc       14857 3035    0 9s Js
+darkstar  824512157  6  1 Bc  kf    -     -        11822   10    0 
+darkstar  824512220  6  6 f   -     -     -        11812    0    0 
+darkstar  824512256  6  5 f   -     -     -        11812    0    0 
+darkstar  824512309  6  4 c   c     k     k        11812  170    0 Kh 4h
+darkstar  824512371  6  3 f   -     -     -        11642    0    0 
+darkstar  824512383  5  2 Bk  k     kf    -        11642   10    0 
+darkstar  824512412  5  1 Bf  -     -     -        11632    5    0 
+darkstar  824512485  5  5 f   -     -     -        11627    0    0 
+darkstar  824512556  5  4 f   -     -     -        11627    0    0 
+darkstar  824512603  6  4 c   k     f     -        11627   10    0 
+darkstar  824512659  6  3 f   -     -     -        11617    0    0 
+darkstar  824512731  7  2 Bk  kf    -     -        11617   10    0 
+darkstar  824512781  8  1 Bf  -     -     -        11607    5    0 
+darkstar  824512809  8  8 f   -     -     -        11602    0    0 
+darkstar  824512837  8  7 f   -     -     -        11602    0    0 
+darkstar  824512897  8  6 f   -     -     -        11602    0    0 
+darkstar  824512990  8  5 c   b     kf    -        11602   70    0 
+darkstar  824513086  8  4 f   -     -     -        11532    0    0 
+darkstar  824513157  8  3 c   kc    k     k        11532   45    0 Ks Ts
+darkstar  824513259  9  3 f   -     -     -        11487    0    0 
+darkstar  824513306  9  2 Bk  kf    -     -        11487   10    0 
+darkstar  824513375  9  1 Bc  kc    kcf   -        11477  280    0 
+darkstar  824513741  9  9 f   -     -     -        11197    0    0 
+darkstar  824513912  7  6 f   -     -     -        11197    0    0 
+darkstar  824513948  7  5 c   b     k     f        11197   60    0 
+darkstar  824514047  7  4 c   f     -     -        11137   10    0 
+darkstar  824514124  7  3 cc  k     k     kf       11127   65    0 
+darkstar  824514244  8  2 Bc  f     -     -        11062  110    0 
+darkstar  824514322  8  1 Bf  -     -     -        10952    5    0 
+darkstar  824514387  8  8 c   bc    k     f        10947  525    0 
+darkstar  824514558  8  7 r   Q     -     -        10422  115    0 
+darkstar  825464679  2  2 f   -     -     -        13355    0    0 
+darkstar  825464682  2  2 Bk  c     f     -        13355   30    0 
+darkstar  825464706  2  1 Bc  k     k     k        13325   10   20 8s Ad
+darkstar  825464724  2  2 B   -     -     -        13335   10   15 
+darkstar  825464729  2  1 Br  -     -     -        13340   30   40 
+darkstar  825464739  2  2 Bk  f     -     -        13350   10    0 
+darkstar  825464754  3  1 Bf  -     -     -        13340    5    0 
+darkstar  825464762  3  3 f   -     -     -        13335    0    0 
+darkstar  825464769  3  2 Bk  k     k     k        13335   10   20 Ah 5s
+darkstar  825464791  3  1 Bc  kf    -     -        13345   10    0 
+darkstar  825464814  3  3 r   b     -     -        13335  110  150 
+darkstar  825464840  3  2 Bk  c     k     k        13375   30    0 Th 9c
+darkstar  825464876  3  1 Bc  k     k     kc       13345   40   90 Th As
+darkstar  825464903  3  3 f   -     -     -        13395    0    0 
+darkstar  825464911  3  2 Bk  k     k     k        13395   10   20 2s As
+darkstar  825464942  3  1 Bf  -     -     -        13405    5    0 
+darkstar  825464947  3  3 r   -     -     -        13400   35   50 
+darkstar  825464962  3  2 Bk  c     b     -        13415   90  120 
+darkstar  825465004  3  1 Br  -     -     -        13445   30   40 
+darkstar  825465015  3  3 c   k     k     k        13455   10    0 Td Qc
+darkstar  825465038  3  2 Bk  c     k     k        13445   30    0 9c 7s
+darkstar  825465071  3  1 Bf  -     -     -        13415    5    0 
+darkstar  825465081  3  3 f   -     -     -        13410    0    0 
+darkstar  825465098  3  2 Bk  c     b     b        13410  270  360 
+darkstar  825465138  3  1 Bc  k     k     k        13500   10   20 6s Td
+darkstar  825465161  3  3 f   -     -     -        13510    0    0 
+darkstar  825465189  4  2 Bf  -     -     -        13510   10    0 
+darkstar  825465199  4  1 Br  kc    b     bc       13500 2430    0 8d 8h
+darkstar  825465256  4  4 c   f     -     -        11070   10    0 
+darkstar  825465293  4  3 f   -     -     -        11060    0    0 
+darkstar  825465297  4  2 Bf  -     -     -        11060   10    0 
+darkstar  825465335  5  1 Bc  kf    -     -        11050   10    0 
+darkstar  825465375  5  5 c   b     -     -        11040   35   50 
+darkstar  825465393  5  4 c   b     -     -        11055   40   60 
+darkstar  825465438  5  3 f   -     -     -        11075    0    0 
+darkstar  825465482  4  2 Bf  -     -     -        11075   10    0 
+darkstar  825465499  5  1 Bf  -     -     -        11065    5    0 
+darkstar  825465521  5  5 f   -     -     -        11060    0    0 
+darkstar  825465540  6  5 c   kf    -     -        11060   10    0 
+darkstar  825465590  7  5 f   -     -     -        11050    0    0 
+darkstar  825465658  6  3 f   -     -     -        11050    0    0 
+darkstar  825465719  5  2 Bk  f     -     -        11050   10    0 
+darkstar  825465758  6  1 Bf  -     -     -        11040    5    0 
+darkstar  825465788  6  6 f   -     -     -        11035    0    0 
+darkstar  825465852  6  5 c   k     f     -        11035   10    0 
+darkstar  825465879  6  4 f   -     -     -        11025    0    0 
+darkstar  825465916  6  3 f   -     -     -        11025    0    0 
+darkstar  825465969  6  2 Bk  k     kf    -        11025   10    0 
+darkstar  825466021  7  1 Bf  -     -     -        11015    5    0 
+darkstar  825466057  7  7 c   f     -     -        11010   10    0 
+darkstar  825466110  7  6 c   f     -     -        11000   10    0 
+darkstar  825466187  8  6 c   c     c     c        10990  510 1080 7s 6c
+darkstar  825466239  8  5 f   -     -     -        11560    0    0 
+darkstar  825466323  9  5 f   -     -     -        11560    0    0 
+darkstar  825466356  9  4 c   b     b     bc       11560 2025    0 Ah Ad
+darkstar  825466431  9  3 c   k     kc    k         9535  290    0 7d 7h
+darkstar  825466565  9  2 Bc  kc    kc    f         9245  615    0 
+darkstar  825466656  9  1 Bf  -     -     -         8630    5    0 
+darkstar  825466717  8  8 f   -     -     -         8625    0    0 
+darkstar  825466781  8  7 c   c     b     k         8625  250    0 Jh 2c
+darkstar  825466868  8  6 f   -     -     -         8375    0    0 
+darkstar  825466947  8  5 c   k     f     -         8375   10    0 
+darkstar  825467047  7  3 f   -     -     -         8365    0    0 
+darkstar  825467137  7  2 c   kf    -     -         8365   10    0 
+darkstar  825467278  8  2 Brc kc    kc    -         8355 2273    0 Jc Td
+darkstar  825467349  7  1 Br  k     b     -         6082  660 1000 
+darkstar  825467412  6  6 f   -     -     -         6422    0    0 
+darkstar  825467444  6  5 f   -     -     -         6422    0    0 
+darkstar  825467491  6  4 cc  Q     -     -         6422   55    0 
+darkstar  825527554  8  2 Bc  kc    k     k         6147  145    0 7h 5c
+darkstar  825527610  8  1 Bf  -     -     -         6002    5    0 
+darkstar  825527655  8  8 cc  f     -     -         5997   40    0 
+darkstar  825527931  8  6 c   k     b     -         5957   40   60 
+darkstar  825528067  9  5 f   -     -     -         5977    0    0 
+darkstar  825528169 10  4 f   -     -     -         5977    0    0 
+darkstar  825528258 10  5 c   k     c     k         5977   30   80 Qc 9d
+darkstar  825528337  7  2 Bk  k     k     f         6027   10    0 
+darkstar  825528450  7  1 Bc  kc    k     b         6017 1505 3150 9d 5d
+darkstar  825528570  7  7 f   -     -     -         7662    0    0 
+darkstar  825528650  7  6 f   -     -     -         7662    0    0 
+darkstar  825528746  7  5 c   kf    -     -         7662   10    0 
+darkstar  825528862  8  5 cc  kf    -     -         7652   45    0 
+darkstar  825528980  6  2 Bk  kf    -     -         7607   10    0 
+darkstar  825529049  6  1 Bf  -     -     -         7597    5    0 
+darkstar  825529062  6  6 c   f     -     -         7592   10    0 
+darkstar  825529167  6  5 f   -     -     -         7582    0    0 
+darkstar  825529214  6  4 f   -     -     -         7582    0    0 
+darkstar  825529259  6  3 fQ  -     -     -         7582    0    0 
+darkstar  825532205  7  1 Bk  kf    -     -         7582   10    0 
+darkstar  825532253  7  1 Bc  kf    -     -         7572   10    0 
+darkstar  825532294  8  8 f   -     -     -         7562    0    0 
+darkstar  825532356  8  7 f   -     -     -         7562    0    0 
+darkstar  825532507  9  5 c   f     -     -         7562   35    0 
+darkstar  825532619  8  3 f   -     -     -         7527    0    0 
+darkstar  825532690  8  2 Bk  kf    -     -         7527   10    0 
+darkstar  825532740  8  1 Bc  kf    -     -         7517   10    0 
+darkstar  825532849  8  8 f   -     -     -         7507    0    0 
+darkstar  825532900  8  7 f   -     -     -         7507    0    0 
+darkstar  825533002  7  5 f   -     -     -         7507    0    0 
+darkstar  825533037  7  4 f   -     -     -         7507    0    0 
+darkstar  825533089  7  3 f   -     -     -         7507    0    0 
+darkstar  825533122  7  2 Bk  kf    -     -         7507   10    0 
+darkstar  825533252  8  1 Bc  k     k     k         7497   10   20 6h Td
+darkstar  825533339  8  8 f   -     -     -         7507    0    0 
+darkstar  825533382  8  7 c   k     k     f         7507   10    0 
+darkstar  825533468  8  6 f   -     -     -         7497    0    0 
+darkstar  825533527  8  5 f   -     -     -         7497    0    0 
+darkstar  825533568  8  4 c   b     c     k         7497  260    0 4c 2c
+darkstar  825533652  8  3 c   kf    -     -         7237   10    0 
+darkstar  825533721  8  2 B   -     -     -         7227   10   15 
+darkstar  825533741  8  1 Bc  kf    -     -         7232   10    0 
+darkstar  825533831  8  8 c   c     c     k         7222  190    0 Js Td
+darkstar  825533903  7  6 f   -     -     -         7032    0    0 
+darkstar  825533968  7  5 c   kc    kf    -         7032   55    0 
+darkstar  825534093  6  3 c   kc    kf    -         6977   70    0 
+darkstar  825534178  5  2 Bk  k     kf    -         6907   10    0 
+darkstar  825534224  5  1 Bf  -     -     -         6897    5    0 
+darkstar  825534273  5  5 f   -     -     -         6892    0    0 
+darkstar  825534322  6  5 cc  kf    -     -         6892   45    0 
+darkstar  825534388  5  4 Q   -     -     -         6847    0    0 

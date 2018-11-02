@@ -1,0 +1,91 @@
+hturner   825657171  5  3 f   -     -     -         3357    0    0 
+hturner   825657196  5  2 Bc  kf    -     -         3357   45    0 
+hturner   825657256  5  1 Bc  k     k     k         3312   10   15 9s Ac
+hturner   825657295  4  4 f   -     -     -         3317    0    0 
+hturner   825657317  4  3 f   -     -     -         3317    0    0 
+hturner   825657347  4  2 Bf  -     -     -         3317   10    0 
+hturner   825657359  4  1 Bc  k     k     kc        3307   40   90 9c Ac
+hturner   825657391  4  4 f   -     -     -         3357    0    0 
+hturner   825657425  4  3 r   b     -     -         3357  130  200 
+hturner   825657459  4  2 Bf  -     -     -         3427   10    0 
+hturner   825657495  4  1 Bc  b     -     -         3417   40   60 
+hturner   825657524  4  4 r   k     b     -         3437   80  170 
+hturner   825657574  4  3 c   k     k     k         3527   10   40 6h Ah
+hturner   825657604  4  2 Bk  b     k     kc        3557  130  270 Qh 4s
+hturner   825657653  4  1 Br  b     -     -         3697  120  180 
+hturner   825657685  4  4 f   -     -     -         3757    0    0 
+hturner   825657748  4  3 cf  -     -     -         3757   10    0 
+hturner   825657799  4  2 Bf  -     -     -         3747   10    0 
+hturner   825657863  4  1 Bc  kf    -     -         3737   10    0 
+hturner   825657895  4  4 r   b     b     -         3727  290  390 
+hturner   825657934  4  3 f   -     -     -         3827    0    0 
+hturner   825657965  4  2 Bk  k     bf    -         3827   45    0 
+hturner   825658006  4  1 Bf  -     -     -         3782    5    0 
+hturner   825658034  4  4 f   -     -     -         3777    0    0 
+hturner   825658099  4  3 cc  f     -     -         3777   50    0 
+hturner   825658180  4  2 Bf  -     -     -         3727   10    0 
+hturner   825658232  4  1 Bf  -     -     -         3717    5    0 
+hturner   825658262  4  4 f   -     -     -         3712    0    0 
+hturner   825658286  4  3 f   -     -     -         3712    0    0 
+hturner   825658331  4  2 Bc  kf    -     -         3712   35    0 
+hturner   825658357  4  1 Bc  k     kf    -         3677   10    0 
+hturner   825658386  4  4 f   -     -     -         3667    0    0 
+hturner   825658404  4  3 f   -     -     -         3667    0    0 
+hturner   825658427  4  2 Bf  -     -     -         3667   10    0 
+hturner   825658454  4  1 Bf  -     -     -         3657    5    0 
+hturner   825658490  4  4 f   -     -     -         3652    0    0 
+hturner   825658530  4  3 f   -     -     -         3652    0    0 
+hturner   825658593  4  2 Bc  kf    -     -         3652   35    0 
+hturner   825658641  5  1 Bc  kf    -     -         3617   10    0 
+hturner   825658679  5  5 c   c     k     k         3607   60    0 Ad 8c
+hturner   825658733  5  4 f   -     -     -         3547    0    0 
+hturner   825658797  6  3 f   -     -     -         3547    0    0 
+hturner   825658827  6  2 Bk  kf    -     -         3547   10    0 
+hturner   825658861  6  1 Br  k     b     kc        3537  305  630 Qs Qc
+hturner   825658917  6  6 c   f     -     -         3862   10    0 
+hturner   825658952  6  5 f   -     -     -         3852    0    0 
+hturner   825659006  6  4 f   -     -     -         3852    0    0 
+hturner   825659042  6  3 f   -     -     -         3852    0    0 
+hturner   825659130  6  2 Bf  -     -     -         3852   10    0 
+hturner   825659163  6  1 Bc  b     kc    kc        3842  470    0 Ac 8c
+hturner   825659231  6  6 cc  r     b     bA        3372 3372 6804 Js 7s
+hturner   825659327  6  5 c   k     k     k         6804   10    0 3d 3c
+hturner   825659371  6  4 f   -     -     -         6794    0    0 
+hturner   825659413  6  3 f   -     -     -         6794    0    0 
+hturner   825659429  6  2 Bk  k     k     k         6794   10    0 4d 3h
+hturner   825659460  6  1 Bc  kf    -     -         6784   10    0 
+hturner   825659503  6  6 f   -     -     -         6774    0    0 
+hturner   825659521  6  5 c   k     k     f         6774   10    0 
+hturner   825659563  6  4 f   -     -     -         6764    0    0 
+hturner   825659588  6  3 f   -     -     -         6764    0    0 
+hturner   825659609  6  2 B   -     -     -         6764   10   15 
+hturner   825659638  6  1 Bc  k     k     k         6769   10   20 5d Kd
+hturner   825659665  6  6 c   k     c     f         6779   50    0 
+hturner   825659717  6  5 f   -     -     -         6729    0    0 
+hturner   825659763  6  4 f   -     -     -         6729    0    0 
+hturner   825659800  6  3 f   -     -     -         6729    0    0 
+hturner   825659823  6  2 Bf  -     -     -         6729   10    0 
+hturner   825659839  6  1 Bf  -     -     -         6719    5    0 
+hturner   825659853  6  6 c   k     f     -         6714   10    0 
+hturner   825659890  6  5 f   -     -     -         6704    0    0 
+hturner   825659909  6  4 f   -     -     -         6704    0    0 
+hturner   825659921  6  3 f   -     -     -         6704    0    0 
+hturner   825659934  6  2 Bk  kf    -     -         6704   10    0 
+hturner   825659999  7  1 Bf  -     -     -         6694    5    0 
+hturner   825660022  7  7 c   r     -     -         6689  130  180 
+hturner   825660057  7  6 f   -     -     -         6739    0    0 
+hturner   825660099  6  4 c   kf    -     -         6739   10    0 
+hturner   825660142  6  3 r   k     k     k         6729   35   75 Tc Td
+hturner   825660178  6  2 Bk  k     kf    -         6769   10    0 
+hturner   825660207  6  1 Bf  -     -     -         6759    5    0 
+hturner   825660257  6  6 f   -     -     -         6754    0    0 
+hturner   825660271  6  5 c   k     k     f         6754   10    0 
+hturner   825660321  6  4 f   -     -     -         6744    0    0 
+hturner   825660360  7  3 f   -     -     -         6744    0    0 
+hturner   825660388  7  2 Bk  kf    -     -         6744   10    0 
+hturner   825660466  7  1 Bf  -     -     -         6734    5    0 
+hturner   825660541  8  8 c   k     k     b         6729   35   50 
+hturner   825660594  7  6 f   -     -     -         6744    0    0 
+hturner   825660636  7  5 f   -     -     -         6744    0    0 
+hturner   825660669  7  4 c   k     f     -         6744   10    0 
+hturner   825660746  7  3 Q   -     -     -         6734    0    0 
